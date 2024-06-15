@@ -1,1 +1,1 @@
-# My favorite Oh-My-Posh Theme customization
+# My favorite Oh-My-Posh theme customizations
